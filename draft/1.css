@@ -1,0 +1,30 @@
+.header {
+  padding: 0 5%;
+}
+
+.header .logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  font-size: 12px;
+  flex-wrap: wrap;
+}
+
+.header .logo h1 {
+  background-color: brown;
+}
+
+.header .logo input {
+  width: 300px;
+  height: 40px;
+  display: block;
+  margin-left: 50px;
+  background-color: blue;
+}
+
+/* @media only screen and (max-width: 1100px)  {
+  .header .logo input {
+    flex-direction: column;
+  }
+} */

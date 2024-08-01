@@ -1,0 +1,15 @@
+1. inputda focus olanda reng deyisir borderde
+2.dil seçimi necə hazırlanır
+3. position fixed edende her shey itir
+4. telimlerde middle-box a hover verende img scale olmalidi.qeribe alindi. zoom istifade etmek necedi
+6. tas da image-e hover edende transitionu niye ancaq hoverin ichinde yazanda ishliyir
+7. footer-box a  a lar .instagram. hover goturmur? gerek dive alim
+8. footerde haqqimdada height 0 verdiyime gore hoveri biraz terpeden kimi submenu yoxa chixir. display block ve ya visibility le  transition vermek olmur
+9. ikon nece qoyulur menyunun ichine
+10.iç içə menyular necə qoyulur
+11.Tutaq ki beynelxalq tecrubede ana sehifeye vuranda esas htmldeki ana sehifeye gedir.onu saytin linkinile  verim ya #id ile. 
+12. search nece ishliyir. ishlemesi uchun ne etmeliyem
+13. intelektual bankdaki her bir linkdeki melumatlar harda yerleshir?
+14. buttonun ve formun ishlemesi uchun nece etmek lazimdi.sadece goruntu olmasin
+
+
